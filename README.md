@@ -1,0 +1,2 @@
+# exercism-rust
+Exercism Rust
